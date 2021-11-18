@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Toby</h1>
-<h3 align="center">A Front End Dev. based in Buenos Aires, Argentina</h3>
+<h1 align="left">Hi 👋, I'm Toby</h1>
+<h3 align="left">A Front End Dev. based in Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working at [Digital House](https://www.digitalhouse.com/latam) as a React Tech Lead
-- 
+
 - 👨‍💻 All of my projects are available at [https://www.corraditobias.com.ar/](https://www.corraditobias.com.ar/)
 
 - 📫 How to reach me **corraditobias@gmail.com**
