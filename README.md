@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Toby</h1>
 <h3 align="left">A Front End Dev. based in Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working at [Digital House](https://www.digitalhouse.com/latam) as an IT Team Leader
+- 🔭 I’m currently working at [Rootstrap](https://rootstrap.com/) as a React Developer
 
 - 👨‍💻 All of my projects are available at [https://www.corraditobias.com.ar/](https://www.corraditobias.com.ar/)
 
